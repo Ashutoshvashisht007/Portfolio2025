@@ -79,7 +79,7 @@ Ensure the following tools are installed on your system:
 Run the following commands to clone and navigate to the project directory:
 
 ```bash
-# git clone https://github.com/ArunRawat404/Portfolio-Website.git
+git clone https://github.com/Ashutoshvashisht007/Portfolio2025
 cd Portfolio-Website
 ```
 
